@@ -11,7 +11,7 @@ Data Source: USGS GeoJSON Feed
 Features: Visualize earthquake data on a map. Display earthquake magnitude, location, and depth. Provide user-friendly interactivity.
 
 # Getting Started
-Clone this repository to your local machine. Install the necessary dependencies (e.g., Plotly). Make sure Static/css, js folders, and logic.js are copied. Run the index.html code app to launch the dashboard.
+Clone this repository to your local machine. Install the necessary dependencies (e.g., Plotly). Make sure static/css, static/js folders, and logic.js are copied. Run the index.html code app to launch the dashboard.
 
 https://github.com/pandarik/leaflet-challenge/blob/main/index.html
 
@@ -20,7 +20,7 @@ https://github.com/pandarik/leaflet-challenge/blob/main/static/js/logic.js
 
 # Dashboard Components
 Map Visualization: Display earthquake data on a map using Leaflet.
-Interactive Features: Allow users to filter data based on earthquake magnitude and depth.
+Interactive Features: Allow users to filter data based on earthquake magnitude and depth. Click on each marker to get more details.
 
 # Usage
 Open the dashboard in your web browser.
